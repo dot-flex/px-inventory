@@ -1,6 +1,6 @@
 # OX INVENTORY REDESIGN
 
-**Modern 3D UI Redesign for Ox Inventory**
+**Modern 3D UI Redesign for Ox Inventory  -  No future updates.**
 
 ![FiveM](https://img.shields.io/badge/FiveM-OX_Inventory_Redesign-c0ef19?style=flat-square)
 ![Frameworks](https://img.shields.io/badge/frameworks-ESX_%7C_QBCore_%7C_Qbox_%7C_OX-44cc11?style=flat-square)
